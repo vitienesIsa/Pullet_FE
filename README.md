@@ -1,7 +1,7 @@
 # Benefits of increased loading history on bone mechanical behaviour are genetic strain dependent in female adolescent chickens
 Isabela Vitienes<sup>a,b,c</sup>, Catherine Julien<sup>b,d</sup>, Ana Rentsch<sup>e</sup>, Russell P. Main<sup>f,g</sup>, Tina M. Widowski<sup>e</sup>, Sara Checa<sup>h,i</sup>, Bettina M. Willie<sup>b,d,j</sup>
 
-<sup>a</sup> Department of Biological and Biomedical Engineering, McGill University, Montreal, Canada
+<sup>a</sup> Department of Biological and Biomedical Engineering, McGill University, Montreal, Canada \
 <sup>b</sup> Research Centre, Shriners Hospital for Children-Canada, Montreal, Canada 
 <sup>c</sup> Department of Operative, Preventive and Pediatric Dentistry, Charité – Universitätsmedizin, Berlin, Germany
 <sup>d</sup> Faculty of Dental Medicine and Oral Health Science, McGill University, Montreal, Canada 
