@@ -2,14 +2,14 @@
 Isabela Vitienes<sup>a,b,c</sup>, Catherine Julien<sup>b,d</sup>, Ana Rentsch<sup>e</sup>, Russell P. Main<sup>f,g</sup>, Tina M. Widowski<sup>e</sup>, Sara Checa<sup>h,i</sup>, Bettina M. Willie<sup>b,d,j</sup>
 
 <sup>a</sup> Department of Biological and Biomedical Engineering, McGill University, Montreal, Canada \
-<sup>b</sup> Research Centre, Shriners Hospital for Children-Canada, Montreal, Canada 
-<sup>c</sup> Department of Operative, Preventive and Pediatric Dentistry, Charité – Universitätsmedizin, Berlin, Germany
-<sup>d</sup> Faculty of Dental Medicine and Oral Health Science, McGill University, Montreal, Canada 
-<sup>e</sup> Department of Animal Bioscience, University of Guelph, Guelph, Canada
-<sup>f</sup> Weldon School of Biomedical Engineering, Purdue University, Indiana, U.S.A
-<sup>g</sup> Department of Basic Medical Sciences, Purdue University, Indiana, U.S.A
-<sup>h</sup> Julius Wolff Institute, Charité-Universitätsmedizin Berlin, Berlin, Germany
-<sup>i</sup> Institute of Biomechanics, Hamburg University of Technology (TUHH), Hamburg, Germany
+<sup>b</sup> Research Centre, Shriners Hospital for Children-Canada, Montreal, Canada  \
+<sup>c</sup> Department of Operative, Preventive and Pediatric Dentistry, Charité – Universitätsmedizin, Berlin, Germany \
+<sup>d</sup> Faculty of Dental Medicine and Oral Health Science, McGill University, Montreal, Canada  \
+<sup>e</sup> Department of Animal Bioscience, University of Guelph, Guelph, Canada \
+<sup>f</sup> Weldon School of Biomedical Engineering, Purdue University, Indiana, U.S.A \
+<sup>g</sup> Department of Basic Medical Sciences, Purdue University, Indiana, U.S.A \
+<sup>h</sup> Julius Wolff Institute, Charité-Universitätsmedizin Berlin, Berlin, Germany \
+<sup>i</sup> Institute of Biomechanics, Hamburg University of Technology (TUHH), Hamburg, Germany \
 <sup>j</sup> College of Veterinary Medicine, Utah State University, Logan, Utah, USA
 
 This repository contains scripts and detailed methodology used in this publication. Datasets (xxxxxx) are available on Zenodo:  
