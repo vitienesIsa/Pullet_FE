@@ -21,12 +21,6 @@ This repository contains scripts and detailed methodology used in this publicati
 In this study, we employed an interdisciplinary, multi-scale approach to investigate how mechanical loading histories during development influence whole-bone mechanical behaviour in the growing avian skeleton. We integrated micro computed-tomography imaging, experimentally validated finite element modelling, and quantitative structural analyses, contributing to a comprehensive understanding of the determinants of bone mechanical behaviour during early life. This approach provides insight into the mechanisms by which early-life physical activity can prevent bone fragility later on in life. By comparing models assuming homogeneous or heterogeneous material properties, we deduced the relative contributions of bone structure versus tissue mineral density to whole-bone stress during simulated physiological loading. Further, we reveal fundamental differences in musculoskeletal form and mechanical  behaviour across genotypes. Our study addresses key themes of the Biomechanics regulators of musculoskeletal growth research topic, including multi-scale experimental characterization, computational modelling of mechanobiological processes, and disease mechanisms relevant to bone fragility. Our findings have clear translational relevance, informing age-specific and genotype-informed strategies to mitigate disuse osteoporosis, thereby contributing to both animal welfare and broader mechanobiology-driven approaches to skeletal health and disease.
 
 
-## Repository Structure
-
-- `scripts/` – analysis scripts  
-- `methods/` – Markdown files describing the workflow    
-- `figures/` – scripts/resources for figure generation  
-
 
 ## Funding
 Conducted at the Shriners Hospitals for Children - Canada, affiliated to McGill University, Montreal, Canada, between 2018-2023.
