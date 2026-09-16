@@ -12,7 +12,7 @@ Isabela Vitienes<sup>a,b,c</sup>, Catherine Julien<sup>b,d</sup>, Ana K. Rentsch
 <sup>i</sup> Institute of Biomechanics, Hamburg University of Technology (TUHH), Hamburg, Germany \
 <sup>j</sup> College of Veterinary Medicine, Utah State University, Logan, Utah, USA
 
-This repository contains scripts and detailed methodology used in this publication. Image datasets are available on Zenodo: [https://doi.org/xxxxx](https://doi.org/xxxxx).  
+This repository contains scripts used and data collected within this publication. CT image datasets are available here: [https://doi.org/xxxxx](https://doi.org/xxxxx).  
 
 
 ## Study Overview
