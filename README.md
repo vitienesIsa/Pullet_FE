@@ -1,5 +1,5 @@
 # Tibiotarsal mechanical behaviour is mainly a function of bone structure and not mineral density in female adolescent chickens
-Isabela Vitienes<sup>a,b,c</sup>, Catherine Julien<sup>b,d</sup>, Ana Rentsch<sup>e</sup>, Russell P. Main<sup>f,g</sup>, Tina M. Widowski<sup>e</sup>, Sara Checa<sup>h,i</sup>, Bettina M. Willie<sup>b,d,j</sup>
+Isabela Vitienes<sup>a,b,c</sup>, Catherine Julien<sup>b,d</sup>, Ana K. Rentsch<sup>e</sup>, Russell P. Main<sup>f,g</sup>, Tina M. Widowski<sup>e</sup>, Sara Checa<sup>h,i</sup>, Bettina M. Willie<sup>b,d,j</sup>
 
 <sup>a</sup> Department of Biological and Biomedical Engineering, McGill University, Montreal, Canada \
 <sup>b</sup> Research Centre, Shriners Hospital for Children-Canada, Montreal, Canada  \
